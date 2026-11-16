@@ -5,3 +5,11 @@ Code for this project is at `..\scraping-demo`
 - Keep it simple. No over-engineering or unnecessary defensive programming.
 - Identify root causes before fixing issues. Prove with evidence, then fix.
 - Work incrementally with small steps. Validate each increment.
+- Follow up a top-down design estructure for the code
+- Read and use the csv file lego_sets in the folder /LEGO+Sets
+- All the developed code it must be in the folder /scraping-demo
+- The code must be saved in a new file main.py
+
+# Objectives
+
+# Functions
